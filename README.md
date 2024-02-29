@@ -1,4 +1,4 @@
-# Mechatronics-Course
+# Introduction-to-Mechatronics-Course
 The exersices and projects of "Introduction to Mechatronics" course
 
 Ferdowsi University of Mashhad
