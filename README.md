@@ -1,5 +1,5 @@
 # Mechatronics-Course
-The exersices and projects of mechatronics course
+The exersices and projects of "Introduction to Mechatronics" course
 
 Ferdowsi University of Mashhad
 
